@@ -1,0 +1,21 @@
+# 数据分析
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+
+# 数据读写
+openpyxl
+xlrd
+python-dotenv
+
+# 可视化
+matplotlib
+seaborn
+plotly
+pyecharts
+
+# Jupyter 环境
+jupyter
+ipykernel
